@@ -1,5 +1,5 @@
 # 💫 About Me:
-An aspiring B.tech final year student from mgit<br>Currently iam learning DSA, Full-stack and Ai/Ml
+An aspiring B.tech final year student from mgit<br>Currently iam learning DSA, Full-stack and Ai/Ml, Data Anaytics
 
 
 ## 🌐 Socials:
